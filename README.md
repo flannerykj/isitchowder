@@ -1,4 +1,4 @@
-#Is It Chowder
+# Is It Chowder? App
 
 Angular app that checks whether your recipe qualifies as a Chowder. 
 You input your ingredients. The app tells you whether your Chowder passes the chowder test:
